@@ -6,7 +6,7 @@ You may also fetch the dataset from [https://webdocs.cs.ualberta.ca/~zaiane/CBET
 ```
 @inproceedings{shahraki2017lexical,
   title={Lexical and learning-based emotion mining from text},
-  author={Shahraki, Ameneh Gholipour and Zaiane, Osmar R},
+  author={Shahraki, Ameneh Gholipour and Za\"{i}ane, Osmar R},
   booktitle={Proceedings of the International Conference on Computational Linguistics and Intelligent Text Processing},
   year={2017}
 }
