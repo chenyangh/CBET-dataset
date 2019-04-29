@@ -1,6 +1,6 @@
+#  Cleaned Balanced Emotional Tweets (CBET) Dataset
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-#  Cleaned Balanced Emotional Tweets (CBET) Dataset
 Please find more details in Ameneh's Thesis [Emotion Mining from Text](https://doi.org/10.7939/R3C53F63N)
 
 You may also fetch the dataset from [https://webdocs.cs.ualberta.ca/~zaiane/CBET/CBET.csv](https://webdocs.cs.ualberta.ca/~zaiane/CBET/CBET.csv)
